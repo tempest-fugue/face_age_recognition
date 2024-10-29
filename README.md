@@ -8,6 +8,6 @@ The faces and labels used to train the notebook are in the link but use too much
 
 ## Conclusions
 
-The GPU model was able to run with 20 epochs which would have been impractical with mine. My model consistently crashed the Jupyter kernel with 1 epoch while running on a CPU.
-This model would be useful in any situation wherein you need to confirm the age of a customer/user/member.
-This notebook shows the difference between running a computer vision model on a CPU vs. a GPU and how to go about training a model that ensures some level of image recognition.
+- The GPU model was able to run with 20 epochs which would have been impractical with mine. My model consistently crashed the Jupyter kernel with 1 epoch while running on a CPU.
+- This model would be useful in any situation wherein you need to confirm the age of a customer/user/member.
+- This notebook shows the difference between running a computer vision model on a CPU vs. a GPU and how to go about training a model that ensures some level of image recognition.
